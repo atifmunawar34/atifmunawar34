@@ -68,11 +68,15 @@ I've also built **complete management systems end-to-end** — including **block
 | **Custom Apache Camel Components** | Reusable integration components (component/endpoint/producer/consumer) for enterprise routes |
 | **Ejaz Soda Water POS** | Cloud retail POS & sales platform — React web + Android companion app |
 | **Verification Management System** | Blockchain-based credential/document verification — Solidity smart contracts, Web3 integration, Hardhat/Truffle/Ganache toolchain |
+| **[Charity Donation dApp](https://github.com/atifmunawar34/web3-projects)** | Transparent on-chain campaigns, donations & audited withdrawals — Solidity, Truffle, React |
+| **[Smart Energy Grid](https://github.com/atifmunawar34/web3-projects)** | Blockchain-integrated energy grid — P2P energy trading, production & consumption tracking |
+| **[Supply Chain Tracking](https://github.com/atifmunawar34/web3-projects)** | Product lifecycle & provenance recorded on-chain — Solidity, Truffle, Ganache, React |
 | **Embedded & Robotics** | Stair-climbing humanoid robot, face-tracking drone, fire-fighting drone |
 
-## Currently Building
+## Repositories
 
-**[spring-boot-projects](https://github.com/atifmunawar34/spring-boot-projects)** — a 60-day Spring Boot challenge: REST APIs, JPA, security, microservices, testing, and DevOps — one project shipped every day.
+- **[spring-boot-projects](https://github.com/atifmunawar34/spring-boot-projects)** — a 60-day Spring Boot challenge: REST APIs, JPA, security, microservices, testing, and DevOps — one project shipped every day
+- **[web3-projects](https://github.com/atifmunawar34/web3-projects)** — Ethereum dApps: charity donations, smart energy grid, supply chain tracking (Solidity · Truffle · Ganache · React)
 
 ## GitHub Stats
 
