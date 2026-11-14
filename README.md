@@ -1,6 +1,6 @@
 # Hi, I'm Atif Munawar
 
-**Full-Stack Engineer** — Java · Spring Boot · Apache Camel · React/Next.js · Flutter · IoT
+**Full-Stack Engineer** — Java · Spring Boot · Apache Camel · Node.js · FastAPI · React/Next.js · Flutter · IoT · AI Agents
 
 7+ years building mobile, web, backend, and IoT systems from concept to deployment.
 
@@ -11,7 +11,9 @@
 
 ## About Me
 
-I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise integration**, and **cross-platform frontends** in Flutter and React. I've connected software to real hardware — fuel dispensers, tank gauges, drones, and robots — for real-time monitoring and control. I deliver reliable, maintainable software and work effectively in remote, cross-functional teams.
+I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise integration**, and **cross-platform frontends** in Flutter and React. I've connected software to real hardware — fuel dispensers, tank gauges, drones, and robots — for real-time monitoring and control.
+
+Currently expanding into **AI systems** — working with LLMs, **agentic AI agents**, and AI-assisted engineering workflows. I deliver reliable, maintainable software and work effectively in remote, cross-functional teams.
 
 ## Tech Stack
 
@@ -19,6 +21,8 @@ I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise int
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache_Camel-E97826?style=for-the-badge&logo=apachecamel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
@@ -34,6 +38,12 @@ I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise int
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI & Agents**
+![OpenAI](https://img.shields.io/badge/LLMs_/_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Engineering-8A2BE2?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ## Experience Highlights
 
