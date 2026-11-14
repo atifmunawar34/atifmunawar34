@@ -57,5 +57,9 @@ I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise int
 
 ## GitHub Stats
 
-![Atif's GitHub stats](https://github-readme-stats.vercel.app/api?username=atifmunawar34&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atifmunawar34&layout=compact&theme=github_dark&hide_border=true)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atifmunawar34&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atifmunawar34&theme=github_dark)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atifmunawar34&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=atifmunawar34&theme=github-dark&hide_border=true)
