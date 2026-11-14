@@ -75,6 +75,7 @@ I've also built **complete management systems end-to-end** — including **block
 | **[Driver Drowsiness Detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** | MediaPipe eye-blink tracking (PyQt5) triggering an Arduino buzzer alarm — supports ESP32-CAM wireless video |
 | **[MERN Messaging App](https://github.com/atifmunawar34/mern-messaging-app)** | Real-time chat — Socket.io, 1:1 & group chats, reactions, file sharing, typing indicators, read receipts |
 | **[Security Shift Booking App](https://github.com/atifmunawar34/security-shift-booking-app)** | Cross-platform Flutter workforce app — shift booking, payroll, incident reports, admin panel |
+| **[ESP32 Health Monitoring](https://github.com/atifmunawar34/esp32-health-monitoring)** | IoT vitals monitor — MAX30102 heart rate/SpO₂ + DS18B20 temp on ESP32, WiFi JSON API, Flutter dashboard |
 | **Embedded & Robotics** | Stair-climbing humanoid robot, face-tracking drone, fire-fighting drone |
 
 ## Repositories
@@ -85,6 +86,7 @@ I've also built **complete management systems end-to-end** — including **block
 - **[driver-drowsiness-detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** — computer-vision drowsiness detection: MediaPipe + PyQt5 desktop app, Arduino alarm, ESP32-CAM support
 - **[mern-messaging-app](https://github.com/atifmunawar34/mern-messaging-app)** — full MERN real-time chat: Socket.io, group chats, message reactions, file sharing
 - **[security-shift-booking-app](https://github.com/atifmunawar34/security-shift-booking-app)** — Flutter workforce management: shift booking, swaps, payroll, incident reports
+- **[esp32-health-monitoring](https://github.com/atifmunawar34/esp32-health-monitoring)** — IoT vitals monitoring: MAX30102/DS18B20 sensors on ESP32, WiFi JSON API, Flutter dashboard
 
 ## GitHub Stats
 
