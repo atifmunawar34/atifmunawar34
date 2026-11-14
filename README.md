@@ -72,6 +72,7 @@ I've also built **complete management systems end-to-end** — including **block
 | **[Smart Energy Grid](https://github.com/atifmunawar34/web3-projects)** | Blockchain-integrated energy grid — P2P energy trading, production & consumption tracking |
 | **[Supply Chain Tracking](https://github.com/atifmunawar34/web3-projects)** | Product lifecycle & provenance recorded on-chain — Solidity, Truffle, Ganache, React |
 | **[Energy Audit & Diagnostic System](https://github.com/atifmunawar34/energy-audit-system)** | Real-time power monitoring — Arduino/ESP32 sensors → Node.js + Socket.io → React dashboard with waveform visualization |
+| **[Driver Drowsiness Detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** | MediaPipe eye-blink tracking (PyQt5) triggering an Arduino buzzer alarm — supports ESP32-CAM wireless video |
 | **Embedded & Robotics** | Stair-climbing humanoid robot, face-tracking drone, fire-fighting drone |
 
 ## Repositories
@@ -79,6 +80,7 @@ I've also built **complete management systems end-to-end** — including **block
 - **[spring-boot-projects](https://github.com/atifmunawar34/spring-boot-projects)** — a 60-day Spring Boot challenge: REST APIs, JPA, security, microservices, testing, and DevOps — one project shipped every day
 - **[web3-projects](https://github.com/atifmunawar34/web3-projects)** — Ethereum dApps: charity donations, smart energy grid, supply chain tracking (Solidity · Truffle · Ganache · React)
 - **[energy-audit-system](https://github.com/atifmunawar34/energy-audit-system)** — real-time energy monitoring & diagnostics: Arduino/ESP32 firmware, Node.js + Socket.io server, React oscilloscope dashboard, MongoDB
+- **[driver-drowsiness-detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** — computer-vision drowsiness detection: MediaPipe + PyQt5 desktop app, Arduino alarm, ESP32-CAM support
 
 ## GitHub Stats
 
