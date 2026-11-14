@@ -73,6 +73,7 @@ I've also built **complete management systems end-to-end** — including **block
 | **[Supply Chain Tracking](https://github.com/atifmunawar34/web3-projects)** | Product lifecycle & provenance recorded on-chain — Solidity, Truffle, Ganache, React |
 | **[Energy Audit & Diagnostic System](https://github.com/atifmunawar34/energy-audit-system)** | Real-time power monitoring — Arduino/ESP32 sensors → Node.js + Socket.io → React dashboard with waveform visualization |
 | **[Driver Drowsiness Detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** | MediaPipe eye-blink tracking (PyQt5) triggering an Arduino buzzer alarm — supports ESP32-CAM wireless video |
+| **[MERN Messaging App](https://github.com/atifmunawar34/mern-messaging-app)** | Real-time chat — Socket.io, 1:1 & group chats, reactions, file sharing, typing indicators, read receipts |
 | **Embedded & Robotics** | Stair-climbing humanoid robot, face-tracking drone, fire-fighting drone |
 
 ## Repositories
@@ -81,6 +82,7 @@ I've also built **complete management systems end-to-end** — including **block
 - **[web3-projects](https://github.com/atifmunawar34/web3-projects)** — Ethereum dApps: charity donations, smart energy grid, supply chain tracking (Solidity · Truffle · Ganache · React)
 - **[energy-audit-system](https://github.com/atifmunawar34/energy-audit-system)** — real-time energy monitoring & diagnostics: Arduino/ESP32 firmware, Node.js + Socket.io server, React oscilloscope dashboard, MongoDB
 - **[driver-drowsiness-detection](https://github.com/atifmunawar34/driver-drowsiness-detection)** — computer-vision drowsiness detection: MediaPipe + PyQt5 desktop app, Arduino alarm, ESP32-CAM support
+- **[mern-messaging-app](https://github.com/atifmunawar34/mern-messaging-app)** — full MERN real-time chat: Socket.io, group chats, message reactions, file sharing
 
 ## GitHub Stats
 
