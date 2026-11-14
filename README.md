@@ -2,7 +2,7 @@
 
 **Full-Stack Engineer** — Java · Spring Boot · Apache Camel · React/Next.js · Flutter · IoT
 
-📍 Islamabad, Pakistan (open to relocation) · 7+ years building mobile, web, backend, and IoT systems from concept to deployment.
+7+ years building mobile, web, backend, and IoT systems from concept to deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atif--munawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atif-munawar)
 [![Email](https://img.shields.io/badge/Email-atifmunawar5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifmunawar5@gmail.com)
