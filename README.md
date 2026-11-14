@@ -1,6 +1,6 @@
 # Hi, I'm Atif Munawar
 
-**Full-Stack Engineer** — Java · Spring Boot · Apache Camel · Node.js · FastAPI · React/Next.js · Flutter · IoT · AI Agents
+**Full-Stack Engineer** — Java · Spring Boot · Apache Camel · Node.js · FastAPI · React/Next.js · Flutter · IoT · Web3 · AI Agents
 
 7+ years building mobile, web, backend, and IoT systems from concept to deployment.
 
@@ -13,7 +13,7 @@
 
 I specialize in **Java and Spring Boot backends**, **Apache Camel enterprise integration**, and **cross-platform frontends** in Flutter and React. I've connected software to real hardware — fuel dispensers, tank gauges, drones, and robots — for real-time monitoring and control.
 
-Currently expanding into **AI systems** — working with LLMs, **agentic AI agents**, and AI-assisted engineering workflows. I deliver reliable, maintainable software and work effectively in remote, cross-functional teams.
+I've also built **complete management systems end-to-end** — including **blockchain-based verification management systems** (smart contracts, credential/document verification, Web3 integration). Currently expanding into **AI systems** — working with LLMs, **agentic AI agents**, and AI-assisted engineering workflows. I deliver reliable, maintainable software and work effectively in remote, cross-functional teams.
 
 ## Tech Stack
 
@@ -39,6 +39,14 @@ Currently expanding into **AI systems** — working with LLMs, **agentic AI agen
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+**Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logoColor=white)
+![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge&logoColor=black)
+
 **AI & Agents**
 ![OpenAI](https://img.shields.io/badge/LLMs_/_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
@@ -59,6 +67,7 @@ Currently expanding into **AI systems** — working with LLMs, **agentic AI agen
 | **ERC Fuel** | Real-time fuel dispenser & ATG monitoring platform — web + Android, live device communication |
 | **Custom Apache Camel Components** | Reusable integration components (component/endpoint/producer/consumer) for enterprise routes |
 | **Ejaz Soda Water POS** | Cloud retail POS & sales platform — React web + Android companion app |
+| **Verification Management System** | Blockchain-based credential/document verification — Solidity smart contracts, Web3 integration, Hardhat/Truffle/Ganache toolchain |
 | **Embedded & Robotics** | Stair-climbing humanoid robot, face-tracking drone, fire-fighting drone |
 
 ## Currently Building
